@@ -8,6 +8,7 @@ public class Main {
         System.out.println("hellow world 2222");
 
         System.out.println("hellow world muratza");
+        ajl;
 
 
 
